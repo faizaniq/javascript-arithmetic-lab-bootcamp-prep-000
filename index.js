@@ -25,12 +25,3 @@ function makeInt(n) {
 function makeInt(n) {
   return parseInt(n, 10)
 }
-function makeInt(sldkjflksjf) {
-  return parseInt(sldkjflksjf)
-}
-function preserveDecimal(n) {
-  return parseFloat(n)
-}
-function preserveDecimal(sldkjflksjf) {
-  return parseFloat(sldkjflksjf)
-}
